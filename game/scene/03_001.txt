@@ -1,0 +1,22 @@
+;3-1：沈默的座位
+playEffect:y2022.mp3 -volume=10;
+changeBg:03.png;
+changeBg: -next;
+intro:3-1：沈默的座位 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+setTextbox:on;
+changeBg:bg classroom_day_dark.png -next;
+bgm:Apprehensive_at_Best.mp3 -volume=25;
+:這幾天，教室裡的空氣像是凝固了。|你下意識地看向右前方。;
+:那個總是會轉過頭對你微笑、|偶爾還會遞給你冰奶茶的位置，;
+:已經空了整整三天。;
+我:（小花的位子乾乾淨淨的，連一張便條紙都沒有留下。）|（但，這份安靜比任何斥責都還要震耳欲聾。）;
+: -notend;
+setTextbox:hide;
+changeBg:bg school_gate_dark.png -next;
+setTextbox:on;
+:這是我這幾天來，第幾次獨自走回家了？;
+我:（我習慣性地往旁邊看去）|（原本會有的溫暖互動，現在只剩下淒涼的風聲。）;
+: -notend;
+changeBg:none -next;
+bgm:none -enter=2000;
+changeScene:03_002.txt;

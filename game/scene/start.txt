@@ -1,0 +1,8 @@
+;初始場景
+intro:【 內容警語 Content Warning 】|本遊戲探討「數位性別暴力」、「同儕霸凌」與「AI 深偽技術」等議題。|劇情中包含角色面臨人際孤立與心理壓迫感的深刻描寫。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+intro:如果在遊玩過程中感到焦慮、不適，請隨時暫停遊戲。|並向身邊信任的大人尋求協助。|心理安全，比完成遊戲更重要。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+playEffect:y2022.mp3 -volume=10;
+changeBg:01.png -灰色的入場券=true;
+changeBg: -next;
+intro:1-1：10.9 吋的避風港 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -灰色的入場券=true;
+changeScene:01_001.txt;

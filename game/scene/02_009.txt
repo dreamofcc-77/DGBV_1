@@ -1,0 +1,20 @@
+;2-4：失控的開端——最後的考驗
+intro:2-4：失控的開端 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:bg classroom_afternoon.png -next;
+bgm:tension_build.mp3 -enter=2000 -volume=50;
+setTextbox:on;
+changeFigure:hao_1_1.png -next;
+阿豪:大神，迷因醜照看膩了。大家想看點新鮮的～|聽說現在有那種 AI 換臉或一鍵脫衣的 app ？;
+我:有是有...;
+阿豪:水啦！兄弟們吵著要看刺激一點的，|這件事，就交給你囉～;
+我:阿豪，但...要換誰的臉？;
+阿豪:這種就是要看認識的，反差大的才刺激，|比如說...，小花。;
+阿豪:做一張小花的，越露越好，|最好還會動的那種，哈哈哈哈哈～;
+我:！！！小花？但...她是我的朋友。;
+:（阿豪的語氣瞬間冷了下來，帶著一絲威脅）;
+changeFigure: -next;
+changeFigure:hao_2_1.png -next;
+阿豪:哼，朋友？|你不做？那我就告訴全班，小明那張照片是你的作品。;
+:面對阿豪的威脅，你的手心開始冒汗‧;
+阿豪:小花的照片，我保證只給群組內的兄弟們看。|這點忙，你該不會不幫吧。;
+choose:為了高人氣，答應阿豪:02_010.txt|為了自保，在恐懼中屈服:02_011.txt;

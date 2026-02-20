@@ -1,0 +1,15 @@
+;【猶豫，手心開始冒汗】
+我:這...這樣好嗎？小明他...;
+changeFigure: -next;
+changeFigure:hao_2_1.png;
+playEffect:cold.mp3;
+阿豪:（冷笑一聲，眼神變得輕蔑）|裝什麼裝？難道你真的當個沒人理的邊緣人？;
+照片我還是會傳給你，希望你想通。|你不做，多的是人想做。;
+changeFigure: -next;
+:你看著阿豪離去的背影，感到一陣寒意。|你知道不照做，明天迎接你的將是以阿豪為首的群體冷暴力...;
+: -notend;
+setTextbox:hide;
+changeBg:none;
+bgm:none -enter=2000;
+intro:第一章 結束。|你拿到了入場券，卻沒預見背後的代價。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeScene:02_001.txt;

@@ -1,0 +1,10 @@
+;隱瞞，不影響的接續
+changeBg: -next;
+bgm:none -enter=2000;
+bgm:SadBgm.mp3 -enter=2000 -volume=50;
+setTextbox:on;
+changeBg:bg school_gate_sunset.png -next;
+changeFigure:hua_sad1.png -next;
+小花:阿宅...你有看到那張圖嗎？|我看到小明剛才在角落偷哭，;
+他的手機被灌滿了惡毒的訊息。|我覺得...發這張圖的人有點過分了。;
+choose:反駁小花:02_006.txt|假裝沈默:02_007.txt;

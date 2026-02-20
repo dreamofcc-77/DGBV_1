@@ -1,0 +1,8 @@
+;資源導入（止血工具箱）
+bgm:Relaxing_Instrumental.mp3 -enter=2000 -volume=50;
+changeBg:bg school_counseling_room.png -next;
+setTextbox:on;
+我:（當我踏進輔導室的瞬間）|（雖然心跳依然很快，但我感覺那種窒息感減輕了一點點。）;
+:真正的勇敢，是承認自己的錯誤，|並勇於求助。;
+:有一件非常重要的事情你必須知道。;
+choose:重要法律知識：數位性別暴力的樣態:04_006.txt;

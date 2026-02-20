@@ -1,0 +1,13 @@
+;反駁小花
+我:小花，那只是玩笑而已。|妳這樣太嚴肅了啦...;
+changeFigure:none -next;
+changeFigure:hua_sad.png -transform={"position":{"y":207},"scale":{"x":0.659,"y":0.659}} -next;
+:小花停下腳步，夕陽照在她失望的臉上;
+小花:開玩笑的前提是，對方也要覺得好笑。;
+我:...（我避開她的視線...）|（我發現，我與她的世界，正慢慢產生一道裂痕。）;
+: -notend;
+bgm:none -enter=2000;
+changeFigure: -next;
+changeBg: -next;
+setTextbox:hide;
+changeScene:02_008.txt;

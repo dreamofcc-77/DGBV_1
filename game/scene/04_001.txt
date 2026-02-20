@@ -1,0 +1,16 @@
+;第四章 - 勇氣的止血
+playEffect:y2022.mp3 -volume=10;
+changeBg:04.png;
+changeBg:none -next;
+intro:4-1：崩潰後的餘震 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+bgm:no_sound.mp3;
+changeBg:bg bedroom_night_dark.png -next;
+setTextbox:on;
+:房間裡的時鐘滴答滴答地走著，|每一秒都像是對你的審判。;
+:你縮在椅子上，螢幕微弱的藍光籠罩著你，|你卻感覺不到任何溫度。;
+我:（為什麼？...為什麼？為什麼！）|（小花的這三個字，和阿豪輕蔑的言語，在你腦海裡無限循環...）;
+:你感覺快喘不過氣了...;
+:突然，在螢幕的一角，一個從未見過的圖示閃爍了一下。;
+playEffect:Magic_Sound.mp3 -volume=25;
+系統提示:【偵測到重大錯誤。是否執行：重來一次 (Undo)？】;
+choose:是:04_002.txt|否:04_002.txt;

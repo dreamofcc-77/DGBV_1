@@ -1,0 +1,18 @@
+;2-3：社交地位的幻覺
+intro:2-3：社交地位的幻覺 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:bg basketball_court.png -next;
+bgm:crowd_cheers.mp3;
+setTextbox:on;
+:阿豪在眾人面前大聲喊你的名字，甚至把手搭在你的肩膀上。;
+changeFigure:hao_1_1.png;
+阿豪:喂！大神！那張圖...多虧有你啊！|群組都熱鬧起來了呢！;
+阿豪:以後誰敢欺負你...|就是跟我阿豪作對，懂嗎？;
+:阿豪的手，抓著你的肩膀，|有點疼...但更多的是一種難以言喻的興奮感。;
+:周圍的人紛紛投來注視與羨慕的目光。;
+我:（嘴角不自覺上揚）|（這種受矚目的感覺...真的會讓人上癮。）;
+阿豪:走啊！打球啊！;
+: -notend;
+changeFigure:none -next;
+changeBg:none -next;
+bgm:none -enter=1000;
+changeScene:02_009.txt;

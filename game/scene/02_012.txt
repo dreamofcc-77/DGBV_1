@@ -1,0 +1,16 @@
+;執行階段
+changeBg:bg bedroom_night.png -next;
+bgm:Suspenseful Heartbeat.mp3 -enter=2000 -volume=50;
+setTextbox:on;
+:深夜的房間。螢幕上是小花笑得很燦爛的照片。|是那天放學，你幫她拍的。;
+我:（我把照片丟進了那個深偽 AI 工具。）|（滑鼠指針在「生成」按鈕上猶豫不決。）;
+我:（對不起..）|（我只是...我只是不想再變回那個沒人理的阿宅。）;
+playEffect:pc_render_start.mp3 -volume=10;
+:進度條緩慢移動著，|每一格都像是在割裂你與小花的友誼。;
+:你閉上眼睛，不忍直視 AI 生成的畫面。;
+: -notend;
+setTextbox:hide;
+changeBg:none -next;
+intro:第二章 結束。|你選擇守住虛幻的人氣，|卻推倒了現實的骨牌。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+bgm:none -enter=2000;
+changeScene:03_001.txt;

@@ -1,0 +1,21 @@
+;1-4：致命的誘惑 (關鍵轉折)
+intro:1-4：致命的誘惑 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:bg classroom_afternoon.png -next;
+playEffect:stylus_tap.mp3 -volume=50;
+setTextbox:on;
+:放學後的寂靜，教室裡只有你練習修圖的聲音。;
+playEffect:desk_slam.mp3;
+:突然，一隻手重重地拍在你的課桌上，力道大到差點讓你的筆滑出螢幕。;
+setAnimation:enter-from-right -target=bg-main;
+bgm:tension_build.mp3 -enter=2000;
+changeFigure:hao_1_1.png -next;
+阿豪:嘿，大神！聽說你修圖超強，連頭髮都能修得跟真的一樣？;
+我:阿豪？你...找我？;
+阿豪:我呢～有個群組，最近想要玩點不一樣的。想進來看看嗎？;
+我:那個...什麼群組？要幹嘛？;
+阿豪:一句話，要不要？;
+我:...（突然這樣邀請我，為什麼？）;
+阿豪:我需要一個很會修圖的人，讓群組更熱鬧一點。;
+:阿豪把手機推到我面前，螢幕上是我們班上的學霸－小明。;
+阿豪:修一張他跌個狗吃屎的樣子，越蠢，越真實越好。|做到了，你就是我們的一員。;
+choose:為了進群，立刻答應並接收照片:01_008.txt|猶豫，手心開始冒汗...:01_009.txt;
