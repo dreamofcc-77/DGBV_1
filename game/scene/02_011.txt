@@ -1,9 +1,9 @@
 ;在恐懼中屈服
-我:（我感覺手心全是冷汗。）|（看著阿豪強勢的樣子，感到無比的孤立無援。）;
-我:（如果不答應，明天我就會變成那個被霸凌的人。）;
-我:好...（我...點了點頭。）;
-阿豪:這才是我們的大神，做好馬上傳過來，大家都在等。;
-: -notend;
+我:（我感覺手心全是冷汗。）|（看著阿豪強勢的樣子，感到無比的孤立無援。） -fontSize=large;
+我:（如果不答應，明天我就會變成那個被霸凌的人。） -fontSize=large;
+我:好...（我...點了點頭。） -fontSize=large;
+阿豪:這才是我們的大神，做好馬上傳過來，大家都在等。 -fontSize=large;
+: -notend -fontSize=large;
 setTextbox:hide;
 changeFigure:none -next;
 changeBg:none -next;

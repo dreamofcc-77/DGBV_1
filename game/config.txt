@@ -4,4 +4,4 @@ Title_img:game_start1.png;
 Title_bgm:Relaxingopening.mp3;
 Textbox_theme:imss;
 Default_Language:zh_TW;
-Description:10.9 吋的電繪板，是主角的避風港 。你渴望被看見、卻總是被忽略。當校園風雲人物遞出通往閃耀社交圈的「門票」時 ，你是否能抵擋那份不再孤單的誘惑？ 這是一款探討社交貨幣、同儕壓力與法律邊界的沉浸式敘事遊戲 。在迷霧籠罩校園之際，你是否具備勇氣面對真相，並承擔選擇背後的代價？;
+Description:;

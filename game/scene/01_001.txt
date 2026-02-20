@@ -1,9 +1,9 @@
 ;第一章
 bgm:quiet_sketching.mp3;
 changeBg:bg classroom_afternoon.png -duration=500 -enter=blur -next;
-:你的世界只有 10.9 吋大。所有的情感和冒險，都濃縮在這平板電腦的繪圖程式裡。|在繪圖程式，你可以隨意撤銷錯誤 (Undo)，但在現實世界，你只是個邊緣人。;
+:你的世界只有 10.9 吋大。所有的情感，彷彿都濃縮在平板電腦的繪圖程式裡。|在繪圖程式，你可以隨意撤銷錯誤 (Undo)，但在現實世界，你只是個邊緣人。 -fontSize=large;
 playEffect:stylus_tap.mp3;
-我:（筆尖在玻璃上滑動的微小震動，是我唯一能掌控的現實。）;
+我:（筆尖在玻璃上滑動的微小震動，是我唯一能掌控的現實。） -fontSize=large;
 playEffect:Children_play_sound.mp3 -volume=50;
-:窗外傳來同學的歡笑聲。;
+:窗外傳來同學的歡笑聲。 -fontSize=large;
 choose:好吵...（你戴起耳機，繼續畫畫）:01_002.txt|偷偷觀察教室外正在打鬧的同學:01_003.txt;

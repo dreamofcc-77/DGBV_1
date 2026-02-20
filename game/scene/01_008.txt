@@ -1,12 +1,12 @@
 ;【為了進群，立刻接過照片】
-:你感覺到心跳加速;
-我:（那張通往閃耀世界的門票，現在就在我手中。）|好...我今晚就修好。;
-阿豪:水喔。動作快點，修好傳給我。;
+:你感覺到心跳加速 -fontSize=large;
+我:（那張通往閃耀世界的門票，現在就在我手中。）|好...我今晚就修好。 -fontSize=large;
+阿豪:水喔。動作快點，修好傳給我。 -fontSize=large;
 changeFigure:none;
-:（看著阿豪離去的背影，你把小明的照片放入圖層。）;
-: -notend;
+:（看著阿豪離去的背影，你把小明的照片放入圖層。） -fontSize=large;
+: -notend -fontSize=large;
 setTextbox:hide;
 changeBg: -next;
 bgm:none -enter=2000;
-intro:第一章 結束。|你拿到了入場券，卻沒預見背後的代價。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:第一章 結束。|你拿到了入場券，|卻沒預見背後的代價。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
 changeScene:02_001.txt;

@@ -1,6 +1,6 @@
 ;感到一絲不安
-我:（我看著小明在照片裡扭曲的臉，心裡閃過一秒鐘的猶豫。）|（但我隨即搖搖頭。這只是搞笑圖，大家都很開心，不是嗎？）;
-: -notend;
+我:（我看著小明在照片裡扭曲的臉，心裡閃過一秒鐘的猶豫。）|（但我隨即搖搖頭。這只是搞笑圖，大家都很開心，不是嗎？） -fontSize=large;
+: -notend -fontSize=large;
 bgm:none -enter=2000;
 changeBg: -next;
 setTextbox:hide;

@@ -1,8 +1,8 @@
 ;沉溺於讚美之中
-我:（我快速回覆了一個帥氣的表情符號。）|「這只是小意思，以後還有更精彩的。」;
-:群組裡立刻刷起一片「不愧是大神！」、「霸氣！」的讚美。;
-我:我真的好開心...好開心...;
-: -notend;
+我:（我快速回覆了一個帥氣的表情符號。）|「這只是小意思，以後還有更精彩的。」 -fontSize=large;
+:群組裡立刻刷起一片「不愧是大神！」、「霸氣！」的讚美。 -fontSize=large;
+我:我真的好開心...好開心... -fontSize=large;
+: -notend -fontSize=large;
 bgm:none -enter=2000;
 changeBg: -next;
 setTextbox:hide;
