@@ -16,6 +16,6 @@ changeFigure:hao_1_1.png -next;
 阿豪:一句話，要不要？ -fontSize=large;
 我:...（突然這樣邀請我，為什麼？） -fontSize=large;
 阿豪:我需要一個很會修圖的人，讓群組更熱鬧一點。 -fontSize=large;
-:阿豪把手機推到我面前，螢幕上是我們班上的學霸－小明。 -fontSize=large;
+:阿豪把手機推到你面前，螢幕上是你們班上的學霸－小明。 -fontSize=large;
 阿豪:修一張他跌個狗吃屎的樣子，越蠢，越真實越好。|做到了，你就是我們的一員。 -fontSize=large;
 choose:為了進群，立刻答應並接收照片:01_008.txt|猶豫，手心開始冒汗...:01_009.txt;
