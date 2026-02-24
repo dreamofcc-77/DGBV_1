@@ -3,8 +3,9 @@ intro:2-2：不敢直視的眼眸 -fontSize=medium -backgroundColor=rgba(0, 0, 0
 changeBg:bg classroom_day.png;
 setTextbox:on;
 bgm:tension_build.mp3 -enter=2000 -volume=50;
-:教室裡，氣氛和平常不太一樣。|你看到幾個人對著小明指指點點，發出低聲的竊笑。 -fontSize=large;
-:小明低著頭快速走過。他的背上被貼了一張縮小版的迷因圖。|那正是你昨晚的作品。 -fontSize=large;
+:教室裡，氣氛和平常不太一樣。|你看到以阿豪為首的一群人對著小明指指點點，發出低聲的竊笑。 -fontSize=large;
+:小明低著頭快速走過。|似乎沒發現他的背上被貼了一張縮小版的迷因圖。 -fontSize=large;
+:那正是你昨晚的作品。 -fontSize=large;
 我:（感到一陣強烈的尷尬，低下頭假裝在看地板。） -fontSize=large;
 我:（我要裝不知情。要不然...） -fontSize=large;
 choose:我就會失去好不容易得來的地位:02_005.txt|其他沒在群組的人也會知道是我做的:02_005.txt;

@@ -10,7 +10,7 @@ setAnimation:enter-from-right -target=bg-main;
 bgm:tension_build.mp3 -enter=2000;
 changeFigure:hao_1_1.png -next;
 阿豪:嘿，大神！聽說你修圖超強，連頭髮都能修得跟真的一樣？ -fontSize=large;
-我:阿豪？你...找我？ -fontSize=large;
+我:...阿豪？你...找我？ -fontSize=large;
 阿豪:我呢～有個群組，最近想要玩點不一樣的。想進來看看嗎？ -fontSize=large;
 我:那個...什麼群組？要幹嘛？ -fontSize=large;
 阿豪:一句話，要不要？ -fontSize=large;

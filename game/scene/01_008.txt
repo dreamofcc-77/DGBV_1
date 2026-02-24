@@ -1,5 +1,5 @@
 ;【為了進群，立刻接過照片】
-:你感覺到心跳加速 -fontSize=large;
+:你感覺到心跳加速。 -fontSize=large;
 我:（那張通往閃耀世界的門票，現在就在我手中。）|好...我今晚就修好。 -fontSize=large;
 阿豪:水喔。動作快點，修好傳給我。 -fontSize=large;
 changeFigure:none;

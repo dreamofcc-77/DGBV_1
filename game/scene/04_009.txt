@@ -1,7 +1,7 @@
 ;找值得信賴的大人們談談
 系統提示:這些大人們會陪你一起面對後果，尋求修復關係的可能。|承認錯誤需要勇氣，我們會是你最強大的後盾。 -fontSize=large;
 我:（我一一記下了這些方式。）|（我知道接下來的路會很辛苦，而道歉也不一定會被原諒...） -fontSize=large;
-我:（但我必須去面對。為了我所重視的人）|（...也為了我自己。） -fontSize=large;
+我:（但我必須去面對。為了我所重視的人。）|（...也為了我自己。） -fontSize=large;
 : -notend -fontSize=large;
 changeBg:none -next;
 setTextbox:hide;
