@@ -2,9 +2,9 @@
 playEffect:y2022.mp3 -volume=10;
 changeBg:02.png;
 changeBg: -next;
+bgm:loop.mp3 -volume=80;
 intro:2-1：深夜的「神壇」 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
 changeBg:bg bedroom_night.png -next;
-bgm:loop.mp3;
 setTextbox:on;
 :凌晨兩點。房間裡唯一的光源是3C螢幕的藍光，|映在你因興奮而發燙的臉上。 -fontSize=large;
 :你在阿豪群組裡的訊息像海浪一樣翻湧。|『太神了！』、『這修圖技術沒誰了！』、『阿宅大神帶我飛！』 -fontSize=large;

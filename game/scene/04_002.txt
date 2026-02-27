@@ -1,14 +1,13 @@
 ;回溯嘗試標籤
-bgm:none -enter=2000;
 playEffect:future.mp3 -volume=50;
 changeBg: -next;
 : -notend -fontSize=large;
 setTextbox:hide;
 changeBg:bg school_gate_sunset.png -next;
-setTransform:{"oldFilm":0,"reflectionFilm":0,"glitchFilm":1,"rgbFilm":1,"godrayFilm":0} -target=bg-main -duration=5000 -ease=circInOut;
+bgm:gentle_healing_piano.mp3 -enter=2000 -volume=50;
+setTransform:{"oldFilm":0,"reflectionFilm":0,"glitchFilm":1,"rgbFilm":1,"godrayFilm":0} -target=bg-main -duration=2000 -ease=circInOut;
 changeBg:none;
 changeBg:bg school_gate_sunset.png -next;
-bgm:gentle_healing_piano.mp3 -enter=2000 -volume=50;
 setTextbox:on;
 小花:阿宅！你在發什麼呆阿～ -fontSize=large;
 changeFigure:hua_happy1.png;
@@ -19,7 +18,7 @@ changeFigure:hua_tea1.png -transform={"position":{"y":134},"scale":{"x":1.451,"y
 我:小花...我... -fontSize=large;
 :你伸出手，要碰到那瓶冰涼奶茶的瞬間... -fontSize=large;
 bgm:none;
-playEffect:system_glitch.mp3;
+bgm:system_glitch.mp3 -volume=75;
 setTransition: -exit=glitchFilm -target=bg-main;
 setTransition: -exit=glitchFilm -target=fig-center;
 changeBg:bg school_gate_bad.png;
@@ -30,6 +29,7 @@ changeFigure:hua_tea1_bad.png;
 setTextbox:hide;
 changeBg:none;
 changeFigure:none;
+bgm:none -enter=2000;
 bgm:Canon.mp3 -enter=3000 -volume=50;
 changeBg:bg bedroom_night_dark.png -next;
 setTextbox:on;

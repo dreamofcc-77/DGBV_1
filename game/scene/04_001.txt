@@ -2,7 +2,6 @@
 bgm:no_sound.mp3;
 changeBg:bg bedroom_night_dark.png -next;
 setTextbox:on;
-:房間裡的時鐘滴答滴答地走著，|每一秒都像是對你的審判。 -fontSize=large;
 :你縮在椅子上，螢幕微弱的藍光籠罩著你，|你卻感覺不到任何溫度。 -fontSize=large;
 我:（為什麼？...為什麼？為什麼！）|（小花的這三個字，和阿豪輕蔑的言語，在你腦海裡無限循環...） -fontSize=large;
 :你感覺快喘不過氣了... -fontSize=large;

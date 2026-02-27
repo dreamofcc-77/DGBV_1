@@ -2,7 +2,7 @@
 playEffect:y2022.mp3 -volume=10;
 changeBg:04.png;
 changeBg:none;
-bgm:Relaxing_Instrumental.mp3 -enter=2000 -volume=50;
+bgm:Relaxing_Instrumental.mp3 -enter=2000 -volume=75;
 changeBg:bg school_counseling_room.png -next;
 setTextbox:on;
 我:（當我踏進輔導室的瞬間。）|（雖然心跳依然很快，但我感覺那種窒息感減輕了一點點。） -fontSize=large;
